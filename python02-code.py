@@ -95,26 +95,3 @@ compare_numbers(12, 2)
 print("\n") #formatting
 
 
-
-
-print("some code")
-
-"""
-	a comment
-	more comments
-	... soo many comments
-
-"""
-
-print("some more code")
-
-
-
-
-
-
-
-
-
-
-
