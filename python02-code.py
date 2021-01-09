@@ -39,18 +39,14 @@ else:
 #formatting
 print("\n")
 print("-------------------------------------")
+print("Result from are_equal() :")
+print("\n")
 
 
 
 ##########################
 #Same program but turned into a function~
 #also I'm changing the variable names to make it less confusing
-
-
-#formatting
-print("Result from are_equal() :")
-print("\n")
-
 
 
 def are_equal(x, y):
@@ -97,4 +93,28 @@ def compare_numbers(first, second):
 compare_numbers(12, 2)
 
 print("\n") #formatting
+
+
+
+
+print("some code")
+
+"""
+	a comment
+	more comments
+	... soo many comments
+
+"""
+
+print("some more code")
+
+
+
+
+
+
+
+
+
+
 
