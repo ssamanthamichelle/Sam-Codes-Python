@@ -40,7 +40,8 @@ var[0:5]
 var[:5]
 
 #just 'friends'
-var[6:12]
+# index thirteen does not exist.. but it's ok here because python will only go up to index 12
+var[6:13]
 
 #if no stop index is specified, python will just go to the end
 var[6:]
